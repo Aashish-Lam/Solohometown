@@ -1,0 +1,89 @@
+
+body{
+    margin: 0px;
+    color: #1D3557;
+    font-family: 'Roboto Slab', serif;
+}
+.hero{
+    background-image: url(images/ktm.webp);
+    background-size:cover;
+    margin: 0px;
+    padding-top: 0px;
+    height: 500px;
+    padding: 10px;
+}
+.headertext1{
+    height: 49px;
+    width: 292px;
+    margin: 119px 0px 10px 550px;
+    color: azure;
+    background-color:#1D3557;
+    border-radius: 10px;
+    padding-left: 13px;
+    padding-top: 10px;
+    font-size: 35px;
+}
+.headertext2{
+    height: 70px;
+    width: 379px;
+    margin: 11px 0px 10px 500px;
+    color: azure;
+    background-color:#457B9D;
+    ;
+    border-radius: 10px;
+    padding-left: 55px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+.main{
+
+    height: 473px;
+    background-color: #F1FAEE;
+    text-align: center;
+}
+.main>h3{
+    margin: 0px;
+    margin-bottom: 54px;
+    font-size: 25px;
+}
+.activities{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.img1,.img2,.img3{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.avatar {
+        height: 200px;
+        width: 200px;
+        border-radius: 10px;
+}
+.Guide{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #A8DADC;
+    ;
+    color: #1D3557;
+    border-bottom: 6px solid #1D3557;
+    border-radius:10px; 
+    box-shadow: 10px 10px 5px lightblue;
+}
+footer{
+    height: 70px;
+    background: #82c3ec;
+    text-align: center;
+}
+
+
