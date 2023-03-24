@@ -9,13 +9,14 @@ body{
     background-size:cover;
     margin: 0px;
     padding-top: 0px;
-    height: 500px;
+    height: 343px;
+    width: 100%;
     padding: 10px;
 }
 .headertext1{
     height: 49px;
     width: 292px;
-    margin: 119px 0px 10px 550px;
+    margin: 119px 0px 10px 200px;
     color: azure;
     background-color:#1D3557;
     border-radius: 10px;
